@@ -1,0 +1,29 @@
+/*
+* Sydney Kwiatkowski
+* Due Date 
+* Practice website using metadata 
+*/
+
+/* The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {
+background-color:lightpink;
+}
+
+header {
+background-color:skyblue; 
+}
+
+main { 
+    background-color:white; 
+}
+
+footer { 
+    background-color:skyblue; 
+}
